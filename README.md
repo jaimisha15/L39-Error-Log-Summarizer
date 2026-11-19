@@ -1,6 +1,3 @@
-# L39 – Error Log Summarizer
-
-**Student:** CHUNARA JAIMISHA GIRISH | **Roll:** H11 | **Division:** H | **Enrollment:** 24004501210063
 
 # L39 – Error Log Summarizer
 
